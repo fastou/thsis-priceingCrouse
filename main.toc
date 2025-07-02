@@ -1,0 +1,86 @@
+\contentsline {chapter}{\numberline {摘要}{}}{I}{Doc-Start}%
+\contentsline {chapter}{\numberline {Abstract}{}}{II}{Doc-Start}%
+\contentsline {chapter}{\numberline {List of Figures}{}}{VI}{Doc-Start}%
+\contentsline {chapter}{\numberline {第一章}绪论}{1}{chapter.1}%
+\contentsline {section}{\numberline {第一节}研究背景}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {一、}研究意义}{2}{subsection.1.1.1}%
+\contentsline {section}{\numberline {第二节}国内外研究现状}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {一、}国内研究现状}{3}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {二、}国外研究现状}{3}{subsection.1.2.2}%
+\contentsline {section}{\numberline {第三节}研究内容与方法}{5}{section.1.3}%
+\contentsline {subsection}{\numberline {一、}研究内容}{5}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {二、}研究方法与流程}{5}{subsection.1.3.2}%
+\contentsline {section}{\numberline {第四节}研究创新}{7}{section.1.4}%
+\contentsline {section}{\numberline {第五节}论文章节}{8}{section.1.5}%
+\contentsline {chapter}{\numberline {第二章}相关理论基础}{10}{chapter.2}%
+\contentsline {section}{\numberline {第一节}个性化教育理论基础}{10}{section.2.1}%
+\contentsline {subsection}{\numberline {一、}个性化教育的定义}{10}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {二、}个性化教育的理论基础}{10}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {三、}个性化教育的实现路径}{11}{subsection.2.1.3}%
+\contentsline {section}{\numberline {第二节}教育产品差异化定价与用户价值挖掘}{11}{section.2.2}%
+\contentsline {subsection}{\numberline {一、}教育产品的商品属性与定价动因}{12}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {二、}差异化定价的理论基础}{12}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {三、}差异化定价建模路径}{12}{subsection.2.2.3}%
+\contentsline {section}{\numberline {第三节}用户分群理论基础}{14}{section.2.3}%
+\contentsline {subsection}{\numberline {一、}市场细分理论与行为分群基础}{14}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {二、}用户分群方法概述}{14}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {三、}用户分群在差异化组合定价策略中的作用}{15}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {四、}教育场景中的分群实践启示}{15}{subsection.2.3.4}%
+\contentsline {section}{\numberline {第四节}知识点掌握状态建模理论}{16}{section.2.4}%
+\contentsline {subsection}{\numberline {一、}理论基础与研究启发}{16}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {二、}建模逻辑与方法体系}{16}{subsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {（一）}加权评分模型（Mastery Scoring Model）}{16}{subsubsection.2.4.2.1}%
+\contentsline {subsubsection}{\numberline {（二）}贝叶斯知识追踪模型（Bayesian Knowledge Tracing, BKT）}{17}{subsubsection.2.4.2.2}%
+\contentsline {subsubsection}{\numberline {（三）}项目反应理论（Item Response Theory, IRT）}{17}{subsubsection.2.4.2.3}%
+\contentsline {subsubsection}{\numberline {（四）}学习曲线建模（Learning Curve Modeling）}{17}{subsubsection.2.4.2.4}%
+\contentsline {subsection}{\numberline {三、}知识点掌握状态对差异化定价策略的作用}{17}{subsection.2.4.3}%
+\contentsline {section}{\numberline {第五节}行为定价理论基础}{18}{section.2.5}%
+\contentsline {subsection}{\numberline {一、}行为定价的理论渊源与经济学基础}{18}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {二、}行为变量与支付意愿的函数映射机制}{19}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {三、}在教育平台中的实际演化路径}{19}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {四、}行为定价建模框架与优化函数}{19}{subsection.2.5.4}%
+\contentsline {section}{\numberline {第六节}支付意愿建模理论}{20}{section.2.6}%
+\contentsline {subsection}{\numberline {一、}支付意愿的理论起点}{20}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {二、}概率建模路径：Logit 模型及其机制}{21}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {三、}对策略函数的支持作用}{21}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {四、}正则项控制与模型稳定性}{21}{subsection.2.6.4}%
+\contentsline {subsection}{\numberline {五、}策略评估的理论基础}{22}{subsection.2.6.5}%
+\contentsline {chapter}{\numberline {第三章}模型构建}{24}{chapter.3}%
+\contentsline {section}{\numberline {第一节}用户行为分群建模}{24}{section.3.1}%
+\contentsline {subsection}{\numberline {一、}分群建模目标}{24}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {二、}行为特征设计}{25}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {三、}分群建模方法}{25}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {四、}分群建模结果}{26}{subsection.3.1.4}%
+\contentsline {section}{\numberline {第二节}知识点掌握状态建模}{26}{section.3.2}%
+\contentsline {subsection}{\numberline {一、}建模目标}{27}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {二、}模型设计思路与引入}{27}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {三、}行为特征设计}{27}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {四、}题目掌握评分模型}{28}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {五、}知识点掌握度计算}{28}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {六、}薄弱知识点判别}{29}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {七、}建模结果应用}{29}{subsection.3.2.7}%
+\contentsline {section}{\numberline {第三节}支付意愿建模}{29}{section.3.3}%
+\contentsline {subsection}{\numberline {一、}建模目标与业务背景}{29}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {二、}输入特征设计}{30}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {三、}建模方法与数学表达}{30}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {四、}模型结果的应用价值}{31}{subsection.3.3.4}%
+\contentsline {section}{\numberline {第四节}差异化组合定价策略}{31}{section.3.4}%
+\contentsline {subsection}{\numberline {一、}个体推荐组合与定价机制设计}{31}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {二、}平台收益最大化优化模型}{35}{subsection.3.4.2}%
+\contentsline {section}{\numberline {第五节}端到端差异化组合定价流程框架}{36}{section.3.5}%
+\contentsline {subsection}{\numberline {一、}端到端流程框架的业务意义}{37}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {二、}框架的创新性与优势}{38}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {三、}框架的可扩展性与其他应用场景}{38}{subsection.3.5.3}%
+\contentsline {chapter}{\numberline {第四章}讨论}{38}{chapter.4}%
+\contentsline {section}{\numberline {第一节}\TeX \ 简介}{38}{section.4.1}%
+\contentsline {subsection}{\numberline {一、}什么是 \TeX /\LaTeX ，我是否应该选择它}{38}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {二、}我该用什么编辑器？}{39}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {三、}我该去哪里寻找答案？}{39}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {四、}我应该看什么 \LaTeX \ 读物？}{39}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {五、}什么知识会过时？什么不会？}{40}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {六、}插图格式}{42}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {七、}\LaTeX \ 作图}{42}{subsection.4.1.7}%
+\contentsline {chapter}{\numberline {第五章}总结展望}{43}{chapter.5}%
+\contentsline {chapter}{\numberline {参考文献}{}}{44}{section*.28}%
+\contentsline {chapter}{\numberline {致谢}{}}{44}{chapter.5}%
+\contentsline {chapter}{\numberline {个人简历、在学期间发表的学术论文与研究成果}{}}{45}{chapter.5}%

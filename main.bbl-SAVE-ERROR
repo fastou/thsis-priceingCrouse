@@ -1,0 +1,1296 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{li_wei_2023}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=89b23cce0bb40099f7b69f6577f665fe}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27012a40fdd9e31160098b444b1fbf1b}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{583b4fc3ff0c77eee223afaba3e64a0b}
+      \strng{fullhash}{583b4fc3ff0c77eee223afaba3e64a0b}
+      \strng{bibnamehash}{583b4fc3ff0c77eee223afaba3e64a0b}
+      \strng{authorbibnamehash}{583b4fc3ff0c77eee223afaba3e64a0b}
+      \strng{authornamehash}{583b4fc3ff0c77eee223afaba3e64a0b}
+      \strng{authorfullhash}{583b4fc3ff0c77eee223afaba3e64a0b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{系统管理学报}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{平台电商的用户细分策略及行为定价}
+      \field{volume}{32}
+      \field{year}{2023}
+      \field{pages}{260\bibrangedash 275}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.3969/j.issn.1005-2542.2023.02.004
+      \endverb
+    \endentry
+    \entry{zhang2022}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8f867bf5609134d5d03b5d8e8940de96}{%
+           family={张瑞},
+           familyi={张\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f867bf5609134d5d03b5d8e8940de96}
+      \strng{fullhash}{8f867bf5609134d5d03b5d8e8940de96}
+      \strng{bibnamehash}{8f867bf5609134d5d03b5d8e8940de96}
+      \strng{authorbibnamehash}{8f867bf5609134d5d03b5d8e8940de96}
+      \strng{authornamehash}{8f867bf5609134d5d03b5d8e8940de96}
+      \strng{authorfullhash}{8f867bf5609134d5d03b5d8e8940de96}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{教育经济研究}
+      \field{number}{3}
+      \field{title}{基于历史支付与学习行为数据的教育课程定价优化研究}
+      \field{volume}{18}
+      \field{year}{2022}
+      \field{pages}{45\bibrangedash 58}
+      \range{pages}{14}
+    \endentry
+    \entry{meng2023}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5ad4ef69feb5856691193dbba3c8a58a}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ecc04ab7cd8350e63b66dc42451fa3e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd6c1d35aed39fa11fcfba0d353120d6}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{014769af907141db7e81f3ddac11b5b3}
+      \strng{fullhash}{f546c37c52f5944f34054d81b40f2426}
+      \strng{bibnamehash}{f546c37c52f5944f34054d81b40f2426}
+      \strng{authorbibnamehash}{f546c37c52f5944f34054d81b40f2426}
+      \strng{authornamehash}{014769af907141db7e81f3ddac11b5b3}
+      \strng{authorfullhash}{f546c37c52f5944f34054d81b40f2426}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Smart Grid}
+      \field{number}{1}
+      \field{title}{Joint clustering and dynamic pricing for demand response in smart grids}
+      \field{volume}{14}
+      \field{year}{2023}
+      \field{pages}{210\bibrangedash 225}
+      \range{pages}{16}
+    \endentry
+    \entry{bai2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a68268d7be0293deb23e8dde127c58d2}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=240f15f7d0b589c89d5552453f46785d}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ac5c6e1891a9d327b6cf9dce9924eaa}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ac745949977b895485e68f5f93e50b39}
+      \strng{fullhash}{3e63e859889905d9ac89aa8b91bdc646}
+      \strng{bibnamehash}{3e63e859889905d9ac89aa8b91bdc646}
+      \strng{authorbibnamehash}{3e63e859889905d9ac89aa8b91bdc646}
+      \strng{authornamehash}{ac745949977b895485e68f5f93e50b39}
+      \strng{authorfullhash}{3e63e859889905d9ac89aa8b91bdc646}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electronic Commerce Research}
+      \field{title}{Behavior-based pricing optimization for mobile applications using clustering techniques}
+      \field{volume}{21}
+      \field{year}{2021}
+      \field{pages}{1129\bibrangedash 1150}
+      \range{pages}{22}
+    \endentry
+    \entry{wang2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=400d63830566928a024db39625ea9e95}{%
+           family={王莉莉},
+           familyi={王\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=19163821ad15f8c88f2673cbd14ab09c}{%
+           family={陈志华},
+           familyi={陈\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=a7f352a0b16fe262c4d772ec58b0166b}{%
+           family={黄振飞},
+           familyi={黄\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1be083d267c5726ca2b56ac5606eb39}
+      \strng{fullhash}{3adc7cb18679cb990132498ab491ee2b}
+      \strng{bibnamehash}{3adc7cb18679cb990132498ab491ee2b}
+      \strng{authorbibnamehash}{3adc7cb18679cb990132498ab491ee2b}
+      \strng{authornamehash}{c1be083d267c5726ca2b56ac5606eb39}
+      \strng{authorfullhash}{3adc7cb18679cb990132498ab491ee2b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{中国电化教育}
+      \field{number}{8}
+      \field{title}{基于学习者画像的个性化课程推荐机制研究}
+      \field{volume}{40}
+      \field{year}{2021}
+      \field{pages}{85\bibrangedash 91}
+      \range{pages}{7}
+      \verb{urlraw}
+      \verb http://www.xjishu.com/zhuanli/55/202011456230.html
+      \endverb
+      \verb{url}
+      \verb http://www.xjishu.com/zhuanli/55/202011456230.html
+      \endverb
+    \endentry
+    \entry{wu2023}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1d7809bf8f7a43092d16cb1dd9f0b4da}{%
+           family={武法提},
+           familyi={武\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=31d1c72b9517a59b7f48cbbfe43e123a}{%
+           family={孙梦雪},
+           familyi={孙\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f6a412d3f3562838cb3dd4b40012f96}
+      \strng{fullhash}{9f6a412d3f3562838cb3dd4b40012f96}
+      \strng{bibnamehash}{9f6a412d3f3562838cb3dd4b40012f96}
+      \strng{authorbibnamehash}{9f6a412d3f3562838cb3dd4b40012f96}
+      \strng{authornamehash}{9f6a412d3f3562838cb3dd4b40012f96}
+      \strng{authorfullhash}{9f6a412d3f3562838cb3dd4b40012f96}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{远程教育杂志}
+      \field{number}{1}
+      \field{title}{人机协同下学习过程数据的精准干预模型}
+      \field{volume}{41}
+      \field{year}{2023}
+      \field{pages}{32\bibrangedash 40}
+      \range{pages}{9}
+    \endentry
+    \entry{ariely2003}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1af2dfb2e7fdd0a9df9738b556a0cb80}{%
+           family={Ariely},
+           familyi={A\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=340fbd890b26df2202038560ff4b4c57}{%
+           family={Loewenstein},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4baab76b032b9f5594660ee9f0e80899}{%
+           family={Prelec},
+           familyi={P\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7996354b7368b6840484cb00b7f8cca2}
+      \strng{fullhash}{982dae022de341db8e49b4a9c2c6e048}
+      \strng{bibnamehash}{982dae022de341db8e49b4a9c2c6e048}
+      \strng{authorbibnamehash}{982dae022de341db8e49b4a9c2c6e048}
+      \strng{authornamehash}{7996354b7368b6840484cb00b7f8cca2}
+      \strng{authorfullhash}{982dae022de341db8e49b4a9c2c6e048}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{number}{1}
+      \field{title}{"Coherent arbitrariness": Stable demand curves without stable preferences}
+      \field{volume}{118}
+      \field{year}{2003}
+      \field{pages}{73\bibrangedash 106}
+      \range{pages}{34}
+    \endentry
+    \entry{levrini2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=21b90219d4f9f16e58c18e0b4972a0d7}{%
+           family={Levrini},
+           familyi={L\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e222c8e025a41ae1a88629e24136265b}{%
+           family={Jeffman\bibnamedelimb dos\bibnamedelima Santos},
+           familyi={J\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{16b8cae89c70c1ed60556e51e7241979}
+      \strng{fullhash}{16b8cae89c70c1ed60556e51e7241979}
+      \strng{bibnamehash}{16b8cae89c70c1ed60556e51e7241979}
+      \strng{authorbibnamehash}{16b8cae89c70c1ed60556e51e7241979}
+      \strng{authornamehash}{16b8cae89c70c1ed60556e51e7241979}
+      \strng{authorfullhash}{16b8cae89c70c1ed60556e51e7241979}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Consumer Neuroscience}
+      \field{number}{2}
+      \field{title}{Neurophysiological correlates of price sensitivity heterogeneity}
+      \field{volume}{7}
+      \field{year}{2021}
+      \field{pages}{89\bibrangedash 104}
+      \range{pages}{16}
+    \endentry
+    \entry{goolsbee2002}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3efd1680eeb02cc4aafbe44061fba095}{%
+           family={Goolsbee},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23efde5addd27a5ddf016361f407f61b}{%
+           family={Chevalier},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b759020c413ee2e9e757fa5418e93255}
+      \strng{fullhash}{b759020c413ee2e9e757fa5418e93255}
+      \strng{bibnamehash}{b759020c413ee2e9e757fa5418e93255}
+      \strng{authorbibnamehash}{b759020c413ee2e9e757fa5418e93255}
+      \strng{authornamehash}{b759020c413ee2e9e757fa5418e93255}
+      \strng{authorfullhash}{b759020c413ee2e9e757fa5418e93255}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quantitative Marketing and Economics}
+      \field{title}{Measuring prices and price competition online: Amazon vs. Barnes \& Noble}
+      \field{volume}{1}
+      \field{year}{2002}
+      \field{pages}{203\bibrangedash 222}
+      \range{pages}{20}
+    \endentry
+    \entry{nair2007}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=52391d00a933c9cc251695f95df7136d}{%
+           family={Nair},
+           familyi={N\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{52391d00a933c9cc251695f95df7136d}
+      \strng{fullhash}{52391d00a933c9cc251695f95df7136d}
+      \strng{bibnamehash}{52391d00a933c9cc251695f95df7136d}
+      \strng{authorbibnamehash}{52391d00a933c9cc251695f95df7136d}
+      \strng{authornamehash}{52391d00a933c9cc251695f95df7136d}
+      \strng{authorfullhash}{52391d00a933c9cc251695f95df7136d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quantitative Marketing and Economics}
+      \field{title}{Intertemporal price discrimination with forward-looking consumers: Application to the US market for console video-games}
+      \field{volume}{5}
+      \field{year}{2007}
+      \field{pages}{239\bibrangedash 292}
+      \range{pages}{54}
+    \endentry
+    \entry{rhee2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ee66151c1916938caf6b9e849bfdc88c}{%
+           family={Rhee},
+           familyi={R\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0d3f9e9b009df411847c7c3e4fedda6}{%
+           family={Thomadsen},
+           familyi={T\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{edd9374f47be9656294297f7029c9a2c}
+      \strng{fullhash}{edd9374f47be9656294297f7029c9a2c}
+      \strng{bibnamehash}{edd9374f47be9656294297f7029c9a2c}
+      \strng{authorbibnamehash}{edd9374f47be9656294297f7029c9a2c}
+      \strng{authornamehash}{edd9374f47be9656294297f7029c9a2c}
+      \strng{authorfullhash}{edd9374f47be9656294297f7029c9a2c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Management Science}
+      \field{number}{3}
+      \field{title}{Vertical differentiation with behavior-based pricing}
+      \field{volume}{63}
+      \field{year}{2017}
+      \field{pages}{807\bibrangedash 823}
+      \range{pages}{17}
+    \endentry
+    \entry{nabizadeh2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ff70137e480a0c94c7dd2872c98782a2}{%
+           family={Nabizadeh},
+           familyi={N\bibinitperiod},
+           given={A.\bibnamedelimi H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77f6848a120d3c1082dba53f7d44e898}{%
+           family={Leal},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d73764cf19b3f61f91a331527d40a8a}{%
+           family={Rafsanjani},
+           familyi={R\bibinitperiod},
+           given={H.\bibnamedelimi N.},
+           giveni={H\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{118ae0bfadb16431bc208205319114f8}
+      \strng{fullhash}{ef1dd31ca6aff83269d5c4904f9b045e}
+      \strng{bibnamehash}{ef1dd31ca6aff83269d5c4904f9b045e}
+      \strng{authorbibnamehash}{ef1dd31ca6aff83269d5c4904f9b045e}
+      \strng{authornamehash}{118ae0bfadb16431bc208205319114f8}
+      \strng{authorfullhash}{ef1dd31ca6aff83269d5c4904f9b045e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Expert Systems with Applications}
+      \field{title}{Learning path personalization and recommendation methods: A survey}
+      \field{volume}{159}
+      \field{year}{2020}
+      \field{pages}{113596}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.eswa.2020.113596
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.eswa.2020.113596
+      \endverb
+    \endentry
+    \entry{miklosik2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=72b8d3a56c705207ceec7af2a9abeb12}{%
+           family={Miklosik},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72b68009f46e201a9104608e158bb554}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fe263d61cfcefcf553b700f4195664bc}
+      \strng{fullhash}{fe263d61cfcefcf553b700f4195664bc}
+      \strng{bibnamehash}{fe263d61cfcefcf553b700f4195664bc}
+      \strng{authorbibnamehash}{fe263d61cfcefcf553b700f4195664bc}
+      \strng{authornamehash}{fe263d61cfcefcf553b700f4195664bc}
+      \strng{authorfullhash}{fe263d61cfcefcf553b700f4195664bc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Information Technology Management}
+      \field{number}{4}
+      \field{title}{Impact of big data and machine learning on digital marketing in industry 4.0}
+      \field{volume}{32}
+      \field{year}{2020}
+      \field{pages}{20\bibrangedash 35}
+      \range{pages}{16}
+    \endentry
+    \entry{oecd2018teachers}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdbed435a416a918aa494017fda4c7fb}{%
+           family={{OECD}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {OECD Publishing}%
+      }
+      \strng{namehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{fullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{bibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{Teachers as Designers of Learning Environments: The Importance of Innovative Pedagogies}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://doi.org/10.1787/9789264085374-en
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1787/9789264085374-en
+      \endverb
+    \endentry
+    \entry{piaget1971constructivism}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=76cd658e2f3ecbeedfaceb2d2a1de596}{%
+           family={Piaget},
+           familyi={P\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{76cd658e2f3ecbeedfaceb2d2a1de596}
+      \strng{fullhash}{76cd658e2f3ecbeedfaceb2d2a1de596}
+      \strng{bibnamehash}{76cd658e2f3ecbeedfaceb2d2a1de596}
+      \strng{authorbibnamehash}{76cd658e2f3ecbeedfaceb2d2a1de596}
+      \strng{authornamehash}{76cd658e2f3ecbeedfaceb2d2a1de596}
+      \strng{authorfullhash}{76cd658e2f3ecbeedfaceb2d2a1de596}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Theory of Stages in Cognitive Development}
+      \field{year}{1971}
+    \endentry
+    \entry{gardner1983frames}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bc46ca30f70d211044a9d851304b9471}{%
+           family={Gardner},
+           familyi={G\bibinitperiod},
+           given={Howard},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{bc46ca30f70d211044a9d851304b9471}
+      \strng{fullhash}{bc46ca30f70d211044a9d851304b9471}
+      \strng{bibnamehash}{bc46ca30f70d211044a9d851304b9471}
+      \strng{authorbibnamehash}{bc46ca30f70d211044a9d851304b9471}
+      \strng{authornamehash}{bc46ca30f70d211044a9d851304b9471}
+      \strng{authorfullhash}{bc46ca30f70d211044a9d851304b9471}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Frames of Mind: The Theory of Multiple Intelligences}
+      \field{year}{1983}
+    \endentry
+    \entry{kubina2012precision}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9b49d199078dd74b8318f214106b4269}{%
+           family={Kubina},
+           familyi={K\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af7a99d9e053767cc55ad1972f1929c8}{%
+           family={Yurich},
+           familyi={Y\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d6aa1f2177d6a16fabc12307249a1535}
+      \strng{fullhash}{d6aa1f2177d6a16fabc12307249a1535}
+      \strng{bibnamehash}{d6aa1f2177d6a16fabc12307249a1535}
+      \strng{authorbibnamehash}{d6aa1f2177d6a16fabc12307249a1535}
+      \strng{authornamehash}{d6aa1f2177d6a16fabc12307249a1535}
+      \strng{authorfullhash}{d6aa1f2177d6a16fabc12307249a1535}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Education and Treatment of Children}
+      \field{number}{4}
+      \field{title}{Precision Teaching: The Measurement-Driven Instructional Strategy}
+      \field{volume}{35}
+      \field{year}{2012}
+      \field{pages}{527\bibrangedash 547}
+      \range{pages}{21}
+    \endentry
+    \entry{unesco2022analytics}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=24a0ef0a6269be289db4de9570763de3}{%
+           family={{UNESCO}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{fullhash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{bibnamehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authorbibnamehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authornamehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authorfullhash}{24a0ef0a6269be289db4de9570763de3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Learning Analytics to Support Learning and Teaching}
+      \field{year}{2022}
+    \endentry
+    \entry{siemens2011openlearning}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cfdf8964f401ce9decf9684053aba17e}{%
+           family={Siemens},
+           familyi={S\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b74a1229e1b17808c509eb11b2ddd1e}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Phil},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Society for Learning Analytics Research}%
+      }
+      \list{location}{1}{%
+        {Edmonton, Canada}%
+      }
+      \strng{namehash}{1579e81fe17a7a4d484150111c75e6ca}
+      \strng{fullhash}{1579e81fe17a7a4d484150111c75e6ca}
+      \strng{bibnamehash}{1579e81fe17a7a4d484150111c75e6ca}
+      \strng{authorbibnamehash}{1579e81fe17a7a4d484150111c75e6ca}
+      \strng{authornamehash}{1579e81fe17a7a4d484150111c75e6ca}
+      \strng{authorfullhash}{1579e81fe17a7a4d484150111c75e6ca}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Open Learning Analytics: An Integrated \& Modularized Platform}
+      \field{type}{Research Report}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://solaresearch.org/core/open-learning-analytics-an-integrated-modularized-platform/
+      \endverb
+      \verb{url}
+      \verb https://solaresearch.org/core/open-learning-analytics-an-integrated-modularized-platform/
+      \endverb
+    \endentry
+    \entry{chen2020adaptivepath}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=042676e1c313c1a0c961f06451fe06cb}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Lijuan},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=25bbf4047d900f3760c65b01ee899dba}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{913f6d0db05a863d465ac7d568c50364}
+      \strng{fullhash}{913f6d0db05a863d465ac7d568c50364}
+      \strng{bibnamehash}{913f6d0db05a863d465ac7d568c50364}
+      \strng{authorbibnamehash}{913f6d0db05a863d465ac7d568c50364}
+      \strng{authornamehash}{913f6d0db05a863d465ac7d568c50364}
+      \strng{authorfullhash}{913f6d0db05a863d465ac7d568c50364}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Technology Research}
+      \field{number}{3}
+      \field{title}{Adaptive Learning Paths Based on Knowledge Graphs and Learning Styles}
+      \field{volume}{42}
+      \field{year}{2020}
+      \field{pages}{102\bibrangedash 112}
+      \range{pages}{11}
+    \endentry
+    \entry{zhang2021educationalproduct}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=25bbf4047d900f3760c65b01ee899dba}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9be3de32b4a90f4dc041661f671a531c}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9d623d4a376606e28511be1d9b4e7d84}
+      \strng{fullhash}{9d623d4a376606e28511be1d9b4e7d84}
+      \strng{bibnamehash}{9d623d4a376606e28511be1d9b4e7d84}
+      \strng{authorbibnamehash}{9d623d4a376606e28511be1d9b4e7d84}
+      \strng{authornamehash}{9d623d4a376606e28511be1d9b4e7d84}
+      \strng{authorfullhash}{9d623d4a376606e28511be1d9b4e7d84}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Education and Economics}
+      \field{number}{2}
+      \field{title}{Exploring Pricing Models of Educational Products in the Digital Economy}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{pages}{45\bibrangedash 58}
+      \range{pages}{14}
+    \endentry
+    \entry{he2020predicting}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3547f28219b2022a97bd0898c8099a6a}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90363e7455b37d0f07cd7e927b294868}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{446e1a1c20a39da2771a9a2bbb49beeb}
+      \strng{fullhash}{446e1a1c20a39da2771a9a2bbb49beeb}
+      \strng{bibnamehash}{446e1a1c20a39da2771a9a2bbb49beeb}
+      \strng{authorbibnamehash}{446e1a1c20a39da2771a9a2bbb49beeb}
+      \strng{authornamehash}{446e1a1c20a39da2771a9a2bbb49beeb}
+      \strng{authorfullhash}{446e1a1c20a39da2771a9a2bbb49beeb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Data Mining Research}
+      \field{number}{2}
+      \field{title}{Predicting Student Performance in Online Education Platforms Using Data Mining}
+      \field{volume}{12}
+      \field{year}{2020}
+      \field{pages}{33\bibrangedash 42}
+      \range{pages}{10}
+    \endentry
+    \entry{choi2021priceacceptance}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ae23dfcea9ed75c406dd03a251802839}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Yuna},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=591b2d1c7a7bbfa2aa9b386562212961}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hyun},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ce70421700b10945909dac2ee5a05878}
+      \strng{fullhash}{ce70421700b10945909dac2ee5a05878}
+      \strng{bibnamehash}{ce70421700b10945909dac2ee5a05878}
+      \strng{authorbibnamehash}{ce70421700b10945909dac2ee5a05878}
+      \strng{authornamehash}{ce70421700b10945909dac2ee5a05878}
+      \strng{authorfullhash}{ce70421700b10945909dac2ee5a05878}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electronic Commerce Research and Applications}
+      \field{title}{Modeling Consumer Price Acceptance Based on Utility Theory in Personalized Pricing}
+      \field{volume}{45}
+      \field{year}{2021}
+      \field{pages}{101030}
+      \range{pages}{1}
+    \endentry
+    \entry{fader2005customerltv}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b8c84df1271bbe8f7d3d08d2815b6a22}{%
+           family={Fader},
+           familyi={F\bibinitperiod},
+           given={Peter\bibnamedelima S},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b312def2ed7551b548ee095ae5faa0fa}{%
+           family={Hardie},
+           familyi={H\bibinitperiod},
+           given={Bruce\bibnamedelima GS},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8e127316cb4c48fe6e2bea8cd271f9a5}
+      \strng{fullhash}{8e127316cb4c48fe6e2bea8cd271f9a5}
+      \strng{bibnamehash}{8e127316cb4c48fe6e2bea8cd271f9a5}
+      \strng{authorbibnamehash}{8e127316cb4c48fe6e2bea8cd271f9a5}
+      \strng{authornamehash}{8e127316cb4c48fe6e2bea8cd271f9a5}
+      \strng{authorfullhash}{8e127316cb4c48fe6e2bea8cd271f9a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Marketing Research}
+      \field{number}{4}
+      \field{title}{RFM and CLV: Using Iso-value Curves for Customer Base Analysis}
+      \field{volume}{42}
+      \field{year}{2005}
+      \field{pages}{415\bibrangedash 430}
+      \range{pages}{16}
+    \endentry
+    \entry{kotler2016marketing}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=68992773d1a840399049c9a31388c032}{%
+           family={Kotler},
+           familyi={K\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d980ed30f2f84f3da5c4c9f1b5ec537}{%
+           family={Keller},
+           familyi={K\bibinitperiod},
+           given={Kevin\bibnamedelima Lane},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Harlow, England}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Education}%
+      }
+      \strng{namehash}{e4bc457d9431d9b4acfa6b223e91a5da}
+      \strng{fullhash}{e4bc457d9431d9b4acfa6b223e91a5da}
+      \strng{bibnamehash}{e4bc457d9431d9b4acfa6b223e91a5da}
+      \strng{authorbibnamehash}{e4bc457d9431d9b4acfa6b223e91a5da}
+      \strng{authornamehash}{e4bc457d9431d9b4acfa6b223e91a5da}
+      \strng{authorfullhash}{e4bc457d9431d9b4acfa6b223e91a5da}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{15th}
+      \field{isbn}{978-0-13-385646-0}
+      \field{title}{Marketing Management}
+      \field{year}{2016}
+    \endentry
+    \entry{xu2019usersegmentation}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f7c6021e7add2930947fbe124c0d815d}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a1e2acca0780a5de1b37e9469e6c888}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{076ea7c135cf95eb0f9b1adf5bec350d}
+      \strng{fullhash}{076ea7c135cf95eb0f9b1adf5bec350d}
+      \strng{bibnamehash}{076ea7c135cf95eb0f9b1adf5bec350d}
+      \strng{authorbibnamehash}{076ea7c135cf95eb0f9b1adf5bec350d}
+      \strng{authornamehash}{076ea7c135cf95eb0f9b1adf5bec350d}
+      \strng{authorfullhash}{076ea7c135cf95eb0f9b1adf5bec350d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Information Science}
+      \field{number}{6}
+      \field{title}{Clustering-based User Segmentation and Its Application in Personalized Recommendation}
+      \field{volume}{37}
+      \field{year}{2019}
+      \field{pages}{112\bibrangedash 120}
+      \range{pages}{9}
+    \endentry
+    \entry{sun2021moocpricing}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=18f2ca94eab66e99fbcfaca400a36215}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=156547ae78e1a840d1a511fd19df87d3}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yao},
+           giveni={Y\bibinitperiod},
+           givenun=2}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f5cbcdea5e6c737012c6e38cf29af763}
+      \strng{fullhash}{f5cbcdea5e6c737012c6e38cf29af763}
+      \strng{bibnamehash}{f5cbcdea5e6c737012c6e38cf29af763}
+      \strng{authorbibnamehash}{f5cbcdea5e6c737012c6e38cf29af763}
+      \strng{authornamehash}{f5cbcdea5e6c737012c6e38cf29af763}
+      \strng{authorfullhash}{f5cbcdea5e6c737012c6e38cf29af763}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Learning Technologies}
+      \field{number}{3}
+      \field{title}{Data-driven Pricing Optimization for MOOC Platforms Using Learning Behavior}
+      \field{volume}{14}
+      \field{year}{2021}
+      \field{pages}{289\bibrangedash 298}
+      \range{pages}{10}
+    \endentry
+    \entry{delatorre_minchen_2014}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4fb29af8b724d1b908570f967c8b2128}{%
+           family={De\bibnamedelima La\bibnamedelima Torre},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Jimmy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e482d59a83f6fcab579bb414f6b3f0fd}{%
+           family={Minchen},
+           familyi={M\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d78f7caad4e9cbfce28ffa77f2cf76db}
+      \strng{fullhash}{d78f7caad4e9cbfce28ffa77f2cf76db}
+      \strng{bibnamehash}{d78f7caad4e9cbfce28ffa77f2cf76db}
+      \strng{authorbibnamehash}{d78f7caad4e9cbfce28ffa77f2cf76db}
+      \strng{authornamehash}{d78f7caad4e9cbfce28ffa77f2cf76db}
+      \strng{authorfullhash}{d78f7caad4e9cbfce28ffa77f2cf76db}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psicología Educativa}
+      \field{number}{2}
+      \field{title}{Cognitively diagnostic assessments and the cognitive diagnosis model framework}
+      \field{volume}{20}
+      \field{year}{2014}
+      \field{pages}{89\bibrangedash 97}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.pse.2014.11.001
+      \endverb
+    \endentry
+    \entry{corbett_anderson_1995}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1544e910255b6271f1063066e9c13c17}{%
+           family={Corbett},
+           familyi={C\bibinitperiod},
+           given={Albert\bibnamedelima T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a26a1c29e402f0e1cace7046bf4f05a5}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1be0243b0cafec40411c13fdb94dae2c}
+      \strng{fullhash}{1be0243b0cafec40411c13fdb94dae2c}
+      \strng{bibnamehash}{1be0243b0cafec40411c13fdb94dae2c}
+      \strng{authorbibnamehash}{1be0243b0cafec40411c13fdb94dae2c}
+      \strng{authornamehash}{1be0243b0cafec40411c13fdb94dae2c}
+      \strng{authorfullhash}{1be0243b0cafec40411c13fdb94dae2c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{User Modeling and User‑Adapted Interaction}
+      \field{number}{4}
+      \field{title}{Knowledge tracing: Modeling the acquisition of procedural knowledge}
+      \field{volume}{4}
+      \field{year}{1995}
+      \field{pages}{253\bibrangedash 278}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1007/BF01099821
+      \endverb
+    \endentry
+    \entry{lord_1980}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=61b721d394c909c77b2aca336c48bff4}{%
+           family={Lord},
+           familyi={L\bibinitperiod},
+           given={Frederic\bibnamedelima M.},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Hillsdale, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Erlbaum}%
+      }
+      \strng{namehash}{61b721d394c909c77b2aca336c48bff4}
+      \strng{fullhash}{61b721d394c909c77b2aca336c48bff4}
+      \strng{bibnamehash}{61b721d394c909c77b2aca336c48bff4}
+      \strng{authorbibnamehash}{61b721d394c909c77b2aca336c48bff4}
+      \strng{authornamehash}{61b721d394c909c77b2aca336c48bff4}
+      \strng{authorfullhash}{61b721d394c909c77b2aca336c48bff4}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Applications of Item Response Theory to Practical Testing Problems}
+      \field{year}{1980}
+    \endentry
+    \entry{chen2002consumer}{article}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=e8622380f54d2d9127e4610dfcfccc66}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yuxin},
+           giveni={Y\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=65003729066494b076c6a6df0c598348}{%
+           family={Iyer},
+           familyi={I\bibinitperiod},
+           given={Ganesh},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {INFORMS}%
+      }
+      \strng{namehash}{af6839cdffe45145979439f57fcebea1}
+      \strng{fullhash}{af6839cdffe45145979439f57fcebea1}
+      \strng{bibnamehash}{af6839cdffe45145979439f57fcebea1}
+      \strng{authorbibnamehash}{af6839cdffe45145979439f57fcebea1}
+      \strng{authornamehash}{af6839cdffe45145979439f57fcebea1}
+      \strng{authorfullhash}{af6839cdffe45145979439f57fcebea1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{07322399, 1526548X}
+      \field{journaltitle}{Marketing Science}
+      \field{number}{2}
+      \field{title}{Consumer Addressability and Customized Pricing}
+      \field{urlday}{28}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{21}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \field{pages}{197\bibrangedash 208}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/1558067
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/1558067
+      \endverb
+    \endentry
+    \entry{pigou1920economics}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f4a18010c80e15ed6e79cfff81942cd0}{%
+           family={Pigou},
+           familyi={P\bibinitperiod},
+           given={Arthur\bibnamedelima Cecil},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan}%
+      }
+      \strng{namehash}{f4a18010c80e15ed6e79cfff81942cd0}
+      \strng{fullhash}{f4a18010c80e15ed6e79cfff81942cd0}
+      \strng{bibnamehash}{f4a18010c80e15ed6e79cfff81942cd0}
+      \strng{authorbibnamehash}{f4a18010c80e15ed6e79cfff81942cd0}
+      \strng{authornamehash}{f4a18010c80e15ed6e79cfff81942cd0}
+      \strng{authorfullhash}{f4a18010c80e15ed6e79cfff81942cd0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Economics of Welfare}
+      \field{year}{1920}
+    \endentry
+    \entry{lancaster_1966}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=47339d7f727102ea148a9aa13204945d}{%
+           family={Lancaster},
+           familyi={L\bibinitperiod},
+           given={Kelvin\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{47339d7f727102ea148a9aa13204945d}
+      \strng{fullhash}{47339d7f727102ea148a9aa13204945d}
+      \strng{bibnamehash}{47339d7f727102ea148a9aa13204945d}
+      \strng{authorbibnamehash}{47339d7f727102ea148a9aa13204945d}
+      \strng{authornamehash}{47339d7f727102ea148a9aa13204945d}
+      \strng{authorfullhash}{47339d7f727102ea148a9aa13204945d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{2}
+      \field{title}{A New Approach to Consumer Theory}
+      \field{volume}{74}
+      \field{year}{1966}
+      \field{pages}{132\bibrangedash 157}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1086/259131
+      \endverb
+    \endentry
+    \entry{louviere_et_al_2000}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4a92770290bb98107dce32916f8ac903}{%
+           family={Louviere},
+           familyi={L\bibinitperiod},
+           given={Jordan\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb8ce2f90600eb0cccb30d0cac0b3be4}{%
+           family={Hensher},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53112a17c78b4dbe51fb024242045bed}{%
+           family={Swait},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, UK}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{c5f8d7064c99b6f456807f0d85528986}
+      \strng{fullhash}{aa9cffe16ef05576a3d703ef78bc31ed}
+      \strng{bibnamehash}{aa9cffe16ef05576a3d703ef78bc31ed}
+      \strng{authorbibnamehash}{aa9cffe16ef05576a3d703ef78bc31ed}
+      \strng{authornamehash}{c5f8d7064c99b6f456807f0d85528986}
+      \strng{authorfullhash}{aa9cffe16ef05576a3d703ef78bc31ed}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780521653731}
+      \field{title}{Stated Choice Methods: Analysis and Application}
+      \field{year}{2000}
+    \endentry
+    \entry{von_hippel_2005}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=520132480f46ba989d52f60ce9f6c9a0}{%
+           family={Hippel},
+           familyi={H\bibinitperiod},
+           given={Eric\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0,
+           prefix={von},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{520132480f46ba989d52f60ce9f6c9a0}
+      \strng{fullhash}{520132480f46ba989d52f60ce9f6c9a0}
+      \strng{bibnamehash}{520132480f46ba989d52f60ce9f6c9a0}
+      \strng{authorbibnamehash}{520132480f46ba989d52f60ce9f6c9a0}
+      \strng{authornamehash}{520132480f46ba989d52f60ce9f6c9a0}
+      \strng{authorfullhash}{520132480f46ba989d52f60ce9f6c9a0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-262-22074-1}
+      \field{title}{Democratizing Innovation: The Evolving Phenomenon of User Innovation}
+      \field{year}{2005}
+      \verb{urlraw}
+      \verb https://evhippel.mit.edu/
+      \endverb
+      \verb{url}
+      \verb https://evhippel.mit.edu/
+      \endverb
+    \endentry
+    \entry{shugan_2004}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b1e5076e1215c225b8be25cd9a36f3d}{%
+           family={Shugan},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b1e5076e1215c225b8be25cd9a36f3d}
+      \strng{fullhash}{6b1e5076e1215c225b8be25cd9a36f3d}
+      \strng{bibnamehash}{6b1e5076e1215c225b8be25cd9a36f3d}
+      \strng{authorbibnamehash}{6b1e5076e1215c225b8be25cd9a36f3d}
+      \strng{authornamehash}{6b1e5076e1215c225b8be25cd9a36f3d}
+      \strng{authorfullhash}{6b1e5076e1215c225b8be25cd9a36f3d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Marketing Science}
+      \field{number}{4}
+      \field{title}{The Impact of Advancing Technology on Marketing and Academic Research}
+      \field{volume}{23}
+      \field{year}{2004}
+      \field{pages}{469\bibrangedash 475}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1287/mksc.1040.0096
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
