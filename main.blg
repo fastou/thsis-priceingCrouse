@@ -1,20 +1,20 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[62] biber-darwin:340> INFO - === Sun Jun 29, 2025, 00:37:40
-[77] Biber.pm:419> INFO - Reading 'main.bcf'
-[153] Biber.pm:979> INFO - Found 36 citekeys in bib section 0
-[166] Biber.pm:4419> INFO - Processing section 0
-[174] Biber.pm:4610> INFO - Looking for bibtex file 'nkthesis.bib' for section 0
-[176] bibtex.pm:1713> INFO - LaTeX decoding ...
-[208] bibtex.pm:1519> INFO - Found BibTeX data source 'nkthesis.bib'
-[386] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[386] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[386] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[386] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[409] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[423] bbl.pm:763> INFO - Output to main.bbl
-[423] Biber.pm:131> WARN - Duplicate entry key: 'li2020moocpricing' in file 'nkthesis.bib', skipping ...
-[424] Biber.pm:131> WARN - Duplicate entry key: 'yang2023digitaledupricing' in file 'nkthesis.bib', skipping ...
-[424] Biber.pm:131> WARN - legacy month field 'mar' in entry 'li_wei_2023' is not an integer - this will probably not sort properly.
-[424] Biber.pm:131> WARN - ISBN '9780521653731' in entry 'louviere_et_al_2000' is invalid - run biber with '--validate_datamodel' for details.
-[424] Biber.pm:133> INFO - WARNINGS: 4
+[27] biber-darwin:340> INFO - === Wed Jul  2, 2025, 17:55:18
+[36] Biber.pm:419> INFO - Reading 'main.bcf'
+[68] Biber.pm:979> INFO - Found 36 citekeys in bib section 0
+[74] Biber.pm:4419> INFO - Processing section 0
+[79] Biber.pm:4610> INFO - Looking for bibtex file 'nkthesis.bib' for section 0
+[80] bibtex.pm:1713> INFO - LaTeX decoding ...
+[96] bibtex.pm:1519> INFO - Found BibTeX data source 'nkthesis.bib'
+[194] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[194] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[195] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[195] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[208] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[217] bbl.pm:763> INFO - Output to main.bbl
+[217] Biber.pm:131> WARN - Duplicate entry key: 'li2020moocpricing' in file 'nkthesis.bib', skipping ...
+[217] Biber.pm:131> WARN - Duplicate entry key: 'yang2023digitaledupricing' in file 'nkthesis.bib', skipping ...
+[217] Biber.pm:131> WARN - legacy month field 'mar' in entry 'li_wei_2023' is not an integer - this will probably not sort properly.
+[217] Biber.pm:131> WARN - ISBN '9780521653731' in entry 'louviere_et_al_2000' is invalid - run biber with '--validate_datamodel' for details.
+[217] Biber.pm:133> INFO - WARNINGS: 4
